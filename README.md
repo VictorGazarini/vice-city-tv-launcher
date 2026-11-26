@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vice City Home
+# 🌅 Vice City Home
 
 **Launcher leve para Android TV e Google TV, com visual neon de pôr do sol.**
 
