@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="vc_focused_app">FOCUSED APP</string>
+    <string name="vc_hint_open">Open</string>
+    <string name="vc_hint_move">Browse</string>
+    <string name="vc_hint_options">Options</string>
+    <string name="vc_badge_open">OPEN</string>
+</resources>

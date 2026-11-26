@@ -1,0 +1,18 @@
+# build
+launcher/.gradle/
+launcher/build/
+launcher/app/build/
+launcher/local.properties
+*.apk
+*.aab
+hs_err_pid*.log
+replay_pid*.log
+
+# chaves e dados pessoais
+*.keystore
+*.jks
+adbkey*
+backup/
+shots/
+__pycache__/
+.DS_Store
